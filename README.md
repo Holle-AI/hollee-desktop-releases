@@ -8,8 +8,8 @@ Hollee Desktop brings Hollee into a focused desktop app, giving teams a cleaner 
 
 ## Downloads
 
-- **Windows:** download `Hollee-Desktop-Setup-x.y.z.exe`.
-- **Mac:** download `Hollee-Desktop-Mac-x.y.z.dmg`.
+- **Windows:** download `Hollee-Desktop-Windows-Setup-x.y.z.exe`.
+- **Mac:** download `Hollee-Desktop-Mac-Setup-x.y.z.dmg`.
 
 ## Desktop features
 
